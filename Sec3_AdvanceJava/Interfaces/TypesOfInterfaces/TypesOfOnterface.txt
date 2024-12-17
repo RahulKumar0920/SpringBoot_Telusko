@@ -1,0 +1,6 @@
+There are 3 Types of Interface :
+
+(We can only declare methods in Interface, that is why we have methdos as "public abstract")
+1. Normal Interface -> In which a interface can have more than 1 method
+2. Functional Interface / SAM(Single Abstract Method) -> In which there is only in 1 method
+3. Marker Interface -> In which there is no methods involved. It is used to communicate with the compiler and have special mehods.

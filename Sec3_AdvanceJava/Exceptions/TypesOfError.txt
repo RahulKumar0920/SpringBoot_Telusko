@@ -1,0 +1,7 @@
+There are 3 types of Error : 
+
+1. Compile Time Error : There are compile time error when ther error is caught after compitaion of code. This error are show in the compilers, mostly these are Syntactical Error
+
+2. Logical Error / bugs : When everything is fine in the code there are no error in the syntax of the code. And still we did no get the desired output, these types of error are caused due to logical error in the code. 
+
+3. Run Time Error / Exceptions (-> Exception Handling) :  When there are no issues in the compilation of code, but suddenly during the execution of code there are some error and the code stops ubruptly.

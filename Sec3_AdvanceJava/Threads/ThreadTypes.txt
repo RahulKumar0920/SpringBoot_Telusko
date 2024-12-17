@@ -1,0 +1,7 @@
+There are 5 types of states : 
+
+1. New 
+2. Runnable
+3. Running
+4. Waiting
+5. Dead
